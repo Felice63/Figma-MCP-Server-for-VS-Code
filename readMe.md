@@ -1,24 +1,6 @@
 # FIGMA MCP SERVER #
 
-From September 23 2025
-https://www.youtube.com/shorts/Cq-7lFMNESk?feature=share
-
-
-https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server
-
-https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/
-
-
-YouTube·Figma
-
-Design Systems And AI: Why MCP Servers Are The Unlock - Figma
-5 ago 2025 — Building better design systems ... Above all, the Figma MCP server helps AI agent output adhere to your team's existing ...
-
-Figma-Context-MCP Explained: MCP Server for Figma-AI Integration
-22 set 2025 — Introduction. Figma-Context-MCP is a community-built MCP (Model Context Protocol) server that lets AI coding assistants...
-
-
-# NOTES #
+## NOTES ##
 
 - Figma MCP Server can better follow your Design instead of using default CSS and JS frameworks and Libraries (Tailwind, ShadnUI, React, Typescript).
 
@@ -34,7 +16,7 @@ Figma-Context-MCP Explained: MCP Server for Figma-AI Integration
 
 
 
-# PROCESS #
+## PROCESS ##
 
 - As of October 23 2025, the [Figma Help Centre](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server) says:
 
@@ -83,3 +65,11 @@ Depending on your needs the Figma MCP Server can be used as a `remote` or `loca
 After you install it, the Figma Server is listed in your VS Code Extensionsunder the `MCP SERVERS - INSTALLED` section.
 
 ![Figma MCP image 6](./img/MCP-proc-6.png)
+
+## Reference ##
+
+[From Figma Help file - setting up MCP Server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
+
+[Remote Server Installation](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/)
+
+[Using the Dev Mode MCP server to help AI agents generate new component code.](https://player.vimeo.com/video/1107414637?h=4d588d37e0&amp;title=0&amp;byline=0&amp;portrait=0&amp;playsinline=0&amp;muted=1&amp;autopause=0&amp;loop=1&amp;app_id=122963)
