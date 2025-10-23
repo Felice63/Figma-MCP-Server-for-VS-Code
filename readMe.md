@@ -66,10 +66,19 @@ After you install it, the Figma Server is listed in your VS Code Extensions unde
 
 ![Figma MCP image 6](./img/MCP-proc-6.png)
 
+## Prompts ##
+
+- [This section from the Figma Developers site](https://developers.figma.com/docs/figma-mcp-server/tools-and-prompts/) has a section on how to prompt the MCP Server. The default output uses Tailwind and React, but you can explicitly customize the output with prompts.
+
+- [This section has more info on writing effective promts](https://developers.figma.com/docs/figma-mcp-server/write-effective-prompts/)
+
+
+
 ## Reference ##
 
 [From Figma Help file - setting up MCP Server](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server)
 
 [Remote Server Installation](https://developers.figma.com/docs/figma-mcp-server/remote-server-installation/)
+
 
 [Using the Dev Mode MCP server to help AI agents generate new component code.](https://player.vimeo.com/video/1107414637?h=4d588d37e0&amp;title=0&amp;byline=0&amp;portrait=0&amp;playsinline=0&amp;muted=1&amp;autopause=0&amp;loop=1&amp;app_id=122963)
