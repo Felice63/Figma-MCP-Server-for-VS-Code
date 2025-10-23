@@ -62,7 +62,7 @@ Depending on your needs the Figma MCP Server can be used as a `remote` or `loca
 
 ![Figma MCP image 5](./img/MCP-proc-5.png)
 
-After you install it, the Figma Server is listed in your VS Code Extensionsunder the `MCP SERVERS - INSTALLED` section.
+After you install it, the Figma Server is listed in your VS Code Extensions under the `MCP SERVERS - INSTALLED` section.
 
 ![Figma MCP image 6](./img/MCP-proc-6.png)
 
